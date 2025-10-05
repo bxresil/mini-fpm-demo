@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .venv/
 figs/*.png
+.DS_Store
